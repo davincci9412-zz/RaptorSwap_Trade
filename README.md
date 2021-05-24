@@ -1,4 +1,4 @@
-# Rator Factory
+# Rator Factory and Pair
 
 # Local Development
 
